@@ -1,4 +1,4 @@
-# Shot-Analyzer-Privacy-Policy
+# Shot Analyzer Privacy Policy
 
 Privacy Policy for Shot Analyzer
 
